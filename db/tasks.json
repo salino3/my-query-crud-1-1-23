@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "name": "la compra",
+      "description": "vino, galletas",
+      "completed": false,
+      "id": 1
+    },
+    {
+      "name": "Paseo",
+      "description": "caminada al monte",
+      "completed": true,
+      "id": 2
+    },
+    {
+      "name": "Trabajar",
+      "description": "cocinero",
+      "completed": false,
+      "id": 3
+    }
+  ]
+}
